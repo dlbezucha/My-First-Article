@@ -50,14 +50,14 @@ body {
 
 .caption {
     margin: 0;
-    font-family: 'Wire One', sans-serif;
+    font-family: 'Literata', serif;
     font-size: 12px;
     color: #333;
 }
 
 .photographer {
     margin: 0;
-    font-family: 'Wire One', sans-serif;
+    font-family: 'Literata', serif;
     font-size: 12px;
     color: #A6A4A3;
 }
@@ -70,6 +70,17 @@ body {
 .copy {
     margin: 0 auto 20px auto;
     color: #222;
+}
+
+.blockquote {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 32px;
+    color: #333;
+    background-color: #DDF3FC;
+    padding: 12px;
+    text-align: center;
+    border-left: solid;
+    border-color: #265A6F;
 }
 
 .related-stories {
